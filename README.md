@@ -1,4 +1,4 @@
-# React-YouTube-Starter
+# React-Youtube-Starter
 
 Interested in learning [React & Redux](https://www.udemy.com/react-redux/)?
 
@@ -10,7 +10,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/scwebd/react-youtube.git
+> git clone https://github.com/scwebd/react-youtube-starter.git
 > cd react-youtube
 > npm install
 > npm start
