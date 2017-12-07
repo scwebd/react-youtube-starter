@@ -1,4 +1,4 @@
-# React-Youtube-Starter
+# React-YouTube-Starter
 
 Interested in learning [React & Redux](https://www.udemy.com/react-redux/)?
 
